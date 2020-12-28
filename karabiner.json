@@ -20,7 +20,7 @@
                         "manipulators": [
                             {
                                 "from": {
-                                    "pointing_button": "button3"
+                                    "pointing_button": "button6"
                                 },
                                 "to": [
                                     {
